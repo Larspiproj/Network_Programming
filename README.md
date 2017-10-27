@@ -1,3 +1,7 @@
 # Network_Programming
 
-Commit from ThinkPad
+Files from:
+Beej's Guide to "Network Programming Using Internet Sockets".
+
+Tutorialspoint "Unix Socket Tutorial".
+
